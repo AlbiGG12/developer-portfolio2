@@ -46,3 +46,25 @@ h1 {
     background-position: 1600px 320px;
     background-repeat: no-repeat;
 }
+
+.shadowbox1 {
+    width: 50%;
+    padding-left: 60px;
+    margin: 50px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    background-image: linear-gradient(black, red);
+}
+
+.shadowbox2 {
+    width: 50%;
+    padding-left: 60px;
+    margin: 50px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    background-image: linear-gradient(black, steelblue);
+}
+
+footer {
+    text-align: center;
+}
